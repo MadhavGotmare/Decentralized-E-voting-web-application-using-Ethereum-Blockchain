@@ -1,1 +1,1 @@
-# Decentralized-E-voting-web-application-using-Ethereum-Blockchain
+# Decentralized E-voting web-application using Ethereum Blockchain
